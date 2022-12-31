@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "hakucalc.dll": "sha256-7NWWIXFhudDsWLEjdxLO4dxdxRxJT5qu6QEm08aSQV4=",
+      "hakucalc.dll": "sha256-R2SU7Kv+TuU5Prg6Q83xEwKhdbzAEmII7QNiu8KodY4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-VAoDN9V6jdh3CG+pIMIiX4dgvy40XSVsjEXjIYhnVyc=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-+B+Dw0exFpLLKnjfJM4i3\/oCk0S9vAPAWW4+uwMs5h8=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jj0gEWGz0IP5DtImmDS2JCnL7nDJvw39GXaOgt9q2BU=",
