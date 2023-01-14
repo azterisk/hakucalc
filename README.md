@@ -1,6 +1,7 @@
 # がいよう
-東方二次創作ゲーム[ハクレイフロンティア](sitappa.com/hakurei_ss/)の便利(?)ツールです。
+東方二次創作ゲーム[ハクレイフロンティア](https://sitappa.com/hakurei_ss/)の便利(?)ツールです。
 ステータスやダメージを計算してくれます。
+
 アプリケーションは[こちら](https://azterisk.github.io/hakucalc/)
 
 # つかいかた
